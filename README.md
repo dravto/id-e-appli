@@ -8,7 +8,7 @@ ceci me fera donc progresser (ou pas) et je pourrais avoir honte de se que je po
 
 #### Connais tu tes potes ? 
 
-Faire une appli ou (alcoolisé ou non peut servir juste à apprendre ses amies) ou il y aura un "Narateur" celui qui tiendras le téléphone et minimum de 3 joueurs, le narateur peut biensur être un joueur. 
+Faire une appli (alcoolisé ou non peut servir juste à apprendre ses amies) ou il y aura un "Narateur" celui qui tiendras le téléphone et minimum de 3 joueurs, le narateur peut biensur être un joueur. 
 
 la première phase de l'application sera donc l'entré des nom/pseudo dans l'appli pour nous reconnaître.
 > ma première vision de cette page sera donc une page trés simple avec un affichage dynamique de joueurs en fonction des nom rentrer
