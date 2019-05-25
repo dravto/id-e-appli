@@ -22,3 +22,15 @@ __la deuxième phase__ sera la phase des règles et thèmes, il faudra choisir u
 __la troisième phase__ sera le jeu, une question sera posé et donc lu par le narateur, et 4 choix vous seront proposé (dont une qui qui sera souvent "_autre/jamais_" etc). Une ou plusieurs personnes seront désigné, ces personnes devront déterminé qui a répondu quoi (pas pour toute les personnes mais il y aura un minimum tirer aléatoirement en fonction de la manche et du nombre de joueurs total), si la personnes donne des bonnes réponse elle donne se que vous avez mis comme enjeu par bonne reponse, sinon elle prend se que vous avez mi en jeux par mauvaise réponse. 
 
 il y aura 4 manche, 1er manche avec 10 question, 2em manche avec 5 question et des evenement aléatoire (minimum 0 et maximum 5), 3eme manche avec 3 question et 3 evenement, et la derniere manche sera 1 seul question 
+
+
+### à faire
+* faire des question sur plein de theme (j'aimerais un minimum de 100 voir 200 question par thème, meme si en vrai j'en veux énormement)
+* reflechir au theme possible
+* commencer la programmation
+* trouver un style graphique (couleur, logo) adapté a l'appli
+* trouver un nom
+
+### pas sûr d'être a faire
+* mode nuit et mode jour
+* musique intégrer
