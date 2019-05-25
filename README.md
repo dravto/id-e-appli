@@ -13,4 +13,6 @@ Faire une appli ou (alcoolisé ou non peut servir juste à apprendre ses amies) 
 la première phase de l'application sera donc l'entré des nom/pseudo dans l'appli pour nous reconnaître.
 > ma première vision de cette page sera donc une page trés simple avec un affichage dynamique de joueurs en fonction des nom rentrer
 
-la deuxième phase sera la phase des règles et thèmes, il faudra choisir un ou plusieurs thèmes (plus ou moins basique) pour les questions qui seront posé. Les règles seront aussi demander Si alcoolisé ou non et à combien de gorgée commence la première manche
+la deuxième phase sera la phase des règles et thèmes, il faudra choisir un ou plusieurs thèmes (plus ou moins basique) pour les questions qui seront posé. Les règles seront aussi demander :
+* Enjeux ou pas ? 
+* si enjeu quoi comme enjeux ? (gorgée, nouriture, gage, les joueurs pourront ecrire se qui veulent mais des choix pré ecrit pourront être sélectionné)
