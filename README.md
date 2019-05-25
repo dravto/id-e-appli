@@ -19,4 +19,6 @@ __la deuxième phase__ sera la phase des règles et thèmes, il faudra choisir u
 * si enjeu combien sont en jeu lors de la première manche et surtout si c'est évolutif dans les manches
 > exemple : si la 1er manche est mis a 1 gorgée la 2em sera mis a 2 et la 3eme a 4 gorgée, ou par exemple avec les gage, 1er manche petit gage, 2 eme manche gros gage, 3 manche 2 gros gage etc etc
 
-__la troisième phase__ sera le jeu, une question sera posé et donc lu par le narateur, et 4 choix vous seront proposé (dont une qui qui sera souvent "_autre/jamais_" etc). Une ou plusieurs personnes seront désigné, ces personnes devront déterminé qui a répondu quoi (pas pour toute les personnes mais il y aura un minimum tirer aléatoirement en fonction de la manche et du nombre de joueurs total)
+__la troisième phase__ sera le jeu, une question sera posé et donc lu par le narateur, et 4 choix vous seront proposé (dont une qui qui sera souvent "_autre/jamais_" etc). Une ou plusieurs personnes seront désigné, ces personnes devront déterminé qui a répondu quoi (pas pour toute les personnes mais il y aura un minimum tirer aléatoirement en fonction de la manche et du nombre de joueurs total), si la personnes donne des bonnes réponse elle donne se que vous avez mis comme enjeu par bonne reponse, sinon elle prend se que vous avez mi en jeux par mauvaise réponse. 
+
+il y aura 4 manche, 1er manche avec 10 question, 2em manche avec 5 question et des evenement aléatoire (minimum 0 et maximum 5), 3eme manche avec 3 question et 3 evenement, et la derniere manche sera 1 seul question 
