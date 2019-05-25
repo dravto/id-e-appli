@@ -16,4 +16,4 @@ la première phase de l'application sera donc l'entré des nom/pseudo dans l'app
 la deuxième phase sera la phase des règles et thèmes, il faudra choisir un ou plusieurs thèmes (plus ou moins basique) pour les questions qui seront posé. Les règles seront aussi demander :
 * Enjeux ou pas ? 
 * * si enjeu quoi comme enjeux ? (gorgée, nouriture, gage, les joueurs pourront ecrire se qui veulent mais des choix pré ecrit pourront être sélectionné)
-* * s
+* s
