@@ -39,3 +39,6 @@ il y aura 4 manche, 1er manche avec 10 question, 2em manche avec 5 question et d
 * background et détails
 * mode nuit 222831 et d65a31
 * mode jour (si il y a) f8eeb4 et a7d129
+
+## logo appli (test) 
+![](https://zupimages.net/up/19/21/rrkb.png)
