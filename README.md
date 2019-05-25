@@ -28,7 +28,7 @@ il y aura 4 manche, 1er manche avec 10 question, 2em manche avec 5 question et d
 * faire des question sur plein de theme (j'aimerais un minimum de 100 voir 200 question par thème, meme si en vrai j'en veux énormement)
 * reflechir au theme possible
 * commencer la programmation
-* trouver un style graphique (couleur, logo) adapté a l'appli
+* trouver un style graphique (couleur, logo) adapté a l'appli (a peu pres fait)
 * trouver un nom
 
 ### pas sûr d'être a faire
@@ -42,3 +42,6 @@ il y aura 4 manche, 1er manche avec 10 question, 2em manche avec 5 question et d
 
 ## logo appli (test) 
 ![](https://zupimages.net/up/19/21/rrkb.png)
+
+## question
+[Question via google sheet](https://docs.google.com/spreadsheets/d/1JiY2rRoVkvFdhHibDjY5kiFqZIVbspE-DchUN0NkH5A/edit?usp=sharing)
