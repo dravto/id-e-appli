@@ -6,7 +6,7 @@ ceci me fera donc progresser (ou pas) et je pourrais avoir honte de se que je po
 
 ## 1er appli
 
-#### Connais tu tes potes ? 
+#### Connais tu tes potes ? (je dois trouver un nom)
 
 Faire une appli (alcoolisé ou non peut servir juste à apprendre ses amies) ou il y aura un "Narateur" celui qui tiendras le téléphone et minimum de 3 joueurs, le narateur peut biensur être un joueur. 
 
