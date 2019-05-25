@@ -34,3 +34,8 @@ il y aura 4 manche, 1er manche avec 10 question, 2em manche avec 5 question et d
 ### pas sûr d'être a faire
 * mode nuit et mode jour
 * musique intégrer
+
+## couleur choisie pour l'appli
+* background et détails
+* mode nuit 222831 et d65a31
+* mode jour (si il y a) f8eeb4 et a7d129
